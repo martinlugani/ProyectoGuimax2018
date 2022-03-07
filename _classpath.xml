@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="imagenes"/>
+	<classpathentry kind="lib" path="C:/Users/martucho/Desktop/sincronizado/WorkPP3/ProyectoGuimax/lib/itextpdf-5.4.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/martucho/Desktop/sincronizado/WorkPP3/ProyectoGuimax/lib/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/martucho/Desktop/sincronizado/WorkPP3/ProyectoGuimax/lib/jgoodies-common-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/martucho/Desktop/sincronizado/WorkPP3/ProyectoGuimax/lib/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/martucho/Desktop/sincronizado/WorkPP3/ProyectoGuimax/lib/jgoodies-looks-2.4.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/martucho/Desktop/sincronizado/WorkPP3/ProyectoGuimax/lib/junit-4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/martucho/Desktop/sincronizado/WorkPP3/ProyectoGuimax/lib/mysql-connector-java-5.1.46.jar"/>
+	<classpathentry kind="lib" path="C:/Users/martucho/Desktop/sincronizado/WorkPP3/ProyectoGuimax/lib/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="miglayout15-swing.jar" sourcepath="miglayout-src.zip"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
